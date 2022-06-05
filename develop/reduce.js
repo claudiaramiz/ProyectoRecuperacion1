@@ -1,3 +1,4 @@
+// Modify with comments
 function reduceExample(){
 const names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice']
 
