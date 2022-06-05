@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Map Javascript</title>
+    <script>
+      function showProps(){
+        let users = [
+          {firstName : "Susan", lastName: "Steward"},
+          {firstName : "Daniel", lastName: "Longbottom"},
+          {firstName : "Jacob", lastName: "Black"}
+      ];
+
+      let userFullnames = users.map(function(element){
+       return `${element.firstName} ${element.lastName}`;
+          })
+          console.log(userFullnames);
+      }
+      </script>
+  </head> 
+  <body>
+  </body>
+  </html>
