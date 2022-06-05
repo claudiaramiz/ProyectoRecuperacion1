@@ -1,3 +1,4 @@
+// Modificar para los ejemplos
 verificarSiYaConfirmoSuCorreo()
 .then(function(correoConfirmado) {
   if (correoConfirmado)
