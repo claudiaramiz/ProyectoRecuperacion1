@@ -1,3 +1,4 @@
+// Modify with comments
 function findExample(){
 const inventario = [
     {nombre: 'manzanas', cantidad: 2},
