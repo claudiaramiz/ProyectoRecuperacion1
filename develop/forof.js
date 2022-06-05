@@ -15,7 +15,7 @@ for (let [key, value] of iterable) {
 // 2
 // 3
 
-let iterable = [10, 20, 30];
+iterable = [10, 20, 30];
 
 for (const value of iterable) {
   console.log(value);
