@@ -1,3 +1,4 @@
+// Modify with comments
 function isPrime(element, index, array) {
     var start = 2;
     while (start <= Math.sqrt(element)) {
