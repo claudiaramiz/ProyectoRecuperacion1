@@ -1,3 +1,4 @@
+// Modify with comments
 function replaceExample(){
 var str = "Apples are round, and apples are juicy.";
 var newstr = str.replace("apples", "oranges", "gi");
