@@ -1,3 +1,4 @@
+// For of is a statement loops through the values of an iterable object
 function forOfExample(){
 let iterable = new Map([["a", 1], ["b", 2], ["c", 3]]);
 
@@ -15,7 +16,7 @@ for (let [key, value] of iterable) {
 // 2
 // 3
 
-iterable = [10, 20, 30];
+let iterable = [10, 20, 30];
 
 for (const value of iterable) {
   console.log(value);

@@ -1,4 +1,4 @@
-// Modify with comments
+// Reduce is a function thah reduce for array element or returns a single value.
 function reduceExample(){
 const names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice']
 

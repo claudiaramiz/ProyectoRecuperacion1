@@ -1,4 +1,4 @@
-// Modify file
+// Hoisting is JavaScript's default behavior of moving declarations to the top.
 function listExample(){
 var x = 5; // Initialize x
 var y = 7; // Initialize y

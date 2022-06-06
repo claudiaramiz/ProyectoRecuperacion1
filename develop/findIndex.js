@@ -1,4 +1,4 @@
-// Modify with comments
+// Find Index is a function or method executes a function for  each array element
 function isPrime(element, index, array) {
     var start = 2;
     while (start <= Math.sqrt(element)) {
