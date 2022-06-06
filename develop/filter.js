@@ -1,5 +1,4 @@
-// Filter is a function that permit creates a new array filled 
-// with elements that pass a test provided by a function. 
+// Filter is a function that permit creates a new array filled with elements that pass a test provided by a function. 
 
 function filterExample(){
 var fruits = ['apple', 'banana', 'grapes', 'mango', 'orange'];

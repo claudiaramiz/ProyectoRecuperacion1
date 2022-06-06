@@ -1,5 +1,4 @@
-// A promise is a is an object that represents the completion 
-// or failure of an asynchronous operation.
+// A promise is a is an object that represents the completion or failure of an asynchronous operation.
 verificarSiYaConfirmoSuCorreo()
 .then(function(correoConfirmado) {
   if (correoConfirmado)
