@@ -1,4 +1,5 @@
-// Reduce is a function thah reduce for array element or returns a single value.
+// Reduce is a function thah reduce for array element or returns 
+// a single value.
 function reduceExample(){
 const names = ['Alice', 'Bob', 'Tiff', 'Bruce', 'Alice']
 

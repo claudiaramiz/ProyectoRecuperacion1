@@ -1,4 +1,4 @@
-// Concat joins two or more values.
+// Concat joins two or more values like string, int or ather.
 function contacExample(){
     const num1 = [1, 2, 3];
     const num2 = [4, 5, 6];

@@ -1,4 +1,5 @@
-// The find is a function or method returns the value of the first element that passes a test
+// The find is a function or method returns the value of the first 
+// element that passes a test
 function findExample(){
 const inventario = [
     {nombre: 'manzanas', cantidad: 2},

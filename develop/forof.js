@@ -1,4 +1,5 @@
-// For of is a statement loops through the values of an iterable object
+// For of is a statement loops through the values of an iterable 
+// object
 function forOfExample(){
 let iterable = new Map([["a", 1], ["b", 2], ["c", 3]]);
 
